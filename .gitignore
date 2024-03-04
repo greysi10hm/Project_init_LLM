@@ -1,0 +1,8 @@
+# Non tenere traccia di questi file 
+*.DS_Store
+*.exe
+*app
+*.dmg
+
+# Non tenere traccia della cartella "temp". 
+temp/
